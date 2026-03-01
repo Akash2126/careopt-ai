@@ -74,6 +74,9 @@ The system provides:
 
 <img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/fb591238-dfc6-41ca-bd3f-450a123b1ea5" />
 
+<img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/580020a5-9412-4d04-802e-1327814d0fab" />
+
+
 
 ---
 
